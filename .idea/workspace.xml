@@ -3,11 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="82551e2c-0551-4e13-90eb-6967dae3eaa2" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="E:\spdn_19_Refugee\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="190" column="49" selection-end-line="891" selection-end-column="11" />
+            <state relative-caret-position="114">
+              <caret line="5" column="109" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
               <folding>
                 <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
@@ -53,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="683" />
     <option name="width" value="683" />
     <option name="height" value="728" />
@@ -112,7 +112,7 @@
       <workItem from="1557188705815" duration="733000" />
       <workItem from="1557192309935" duration="199000" />
       <workItem from="1557193674612" duration="16731000" />
-      <workItem from="1557215810874" duration="2050000" />
+      <workItem from="1557215810874" duration="2715000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1557216862775</created>
@@ -121,19 +121,41 @@
       <option name="project" value="LOCAL" />
       <updated>1557216862775</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1557218049732</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557218049732</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1557218099107</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557218099107</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1">
+      <created>1557218313653</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557218313653</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19713000" />
+    <option name="totallyTimeSpent" value="20378000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="683" y="0" width="683" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13169643" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2744186" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="消息" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -163,8 +185,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="190" column="49" selection-end-line="891" selection-end-column="11" />
+        <state relative-caret-position="114">
+          <caret line="5" column="109" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
           <folding>
             <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
